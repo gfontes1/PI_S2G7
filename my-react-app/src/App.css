@@ -1,0 +1,16 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+}
+.header {
+  background-color: aqua;
+  height: 10vh;
+}
+.btnLogin{
+  float:right;
+  height: 5vh;
+  width: 10vw;
+  background-color: aliceblue;
+  border: 1px groove whitesmoke;
+  border-radius: 3px;
+}
